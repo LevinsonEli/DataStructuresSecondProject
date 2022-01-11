@@ -1,8 +1,3 @@
-/**********************************/
-/*  Targil 2 Mivne Netunim        */
-/*	Eliyahu Levinson 336462346    */
-/**********************************/
-
 /* This program gets a n - size of array; an array of players: id - positive number,
    name - a string with two seperate words; a k - a positive number in range of ids.
    The program prints all the players that id < k in sorted way (from small) and
